@@ -1,0 +1,79 @@
+.navigation{
+    float: right;
+    height: 100%;
+}
+
+
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 10px 20px 0px 0px;
+    background-color: #101010;
+}
+
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 20px;
+    color: white;
+}
+
+.navigation a:hover{
+    background-color: gray;
+    color: #101010;
+}
+
+
+.logo-container h1 {
+
+    background-color: #101010;
+    color: white;
+    float : left;
+    padding: 0px 20px;
+    text-align:center;
+
+}
+
+.header {
+    background-color: #101010;
+    height: 80px
+}
+
+.content img {
+    width:1000px;
+    float : left;
+    padding:0px 20px;
+}
+.content h1 {
+    color: black
+    font-size: 40px;
+    padding:0px 20%;
+}
+.left {
+  float: left;
+  width: 20%;
+}
+
+body {
+    background-image : url("1.jpg");
+    background-size : 200%;
+}
+.contents h1 {
+    float : left;
+}
+.cont a {
+    padding:5px 0%;
+    color: black;
+    font-weight:600
+
+}
+.cont {
+    padding:35px 20%;
+    height: 10px;
+
+}
+.cont a:hover{
+    background-color: gray;
+    color: blue;
+    height: 80px
